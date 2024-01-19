@@ -1,2 +1,2 @@
 # Pizza
-Aimple HTML/CSS Web Page Project
+Simple HTML/CSS Web Page Project
